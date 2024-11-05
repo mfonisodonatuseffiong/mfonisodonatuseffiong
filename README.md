@@ -15,6 +15,7 @@
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 - ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
 ### **Frameworks & Libraries**:
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,6 +30,11 @@
 
 ## 📈 GitHub Stats
 ![Mfoniso's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfonisodonatuseffiong&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Projects
+- **My Portfolio**: Check out one of my projects at [My Portfolio Website](https://mfonisodonatuseffiong.github.io/)
 
 ---
 
