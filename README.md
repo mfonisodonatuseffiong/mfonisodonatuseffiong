@@ -34,7 +34,7 @@
 ---
 
 ## 🌐 Projects
-- **My Portfolio**: Check out one of my projects at [My Portfolio Website](https://mfonisodonatuseffiong.github.io/)
+- **My Portfolio**: Check out one of my projects at [My Portfolio Website](https://my-portfolio-n6rg.vercel.app)
 
 ---
 
@@ -44,7 +44,7 @@
 ---
 
 ## 💬 Let's Connect
-- **LinkedIn**: [Mfoniso Donatus](https://www.linkedin.com/in/mfoniso-donatus)
+- **LinkedIn**: [Mfoniso Donatus](https://www.linkedin.com/in/mfonisodonatus)
 - **Email**: mfonisodonatuseffiong@gmail.com
 
 Feel free to reach out for collaborations, freelance work, or just a friendly chat about tech!
