@@ -44,7 +44,7 @@
 ---
 
 ## 💬 Let's Connect
-[mfoniso donatus](https://www.linkedin.com/in/mfoniso-donatus-b4a23b402)
+**Linkedin**: [mfoniso donatus](https://www.linkedin.com/in/mfoniso-donatus-b4a23b402)
 - **Email**: mfonisodonatuseffiong@gmail.com
 
 Feel free to reach out for collaborations, freelance work, or just a friendly chat about tech!
