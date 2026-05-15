@@ -39,12 +39,12 @@
 ---
 
 ## 📝 Blog & Articles
-- Check out my latest article on [My Blog](https://medium.com/@mfonisodonatus.com)
+- Check out my latest https://medium.com/@mfonisodonatus.com
 
 ---
 
 ## 💬 Let's Connect
-- **LinkedIn**: [mfoniso donatus](https://www.linkedin.com/in/mfoniso donatus)
+- **LinkedIn**: [mfoniso donatus](https://www.linkedin.com/in/mfoniso-donatus)
 - **Email**: mfonisodonatuseffiong@gmail.com
 
 Feel free to reach out for collaborations, freelance work, or just a friendly chat about tech!
